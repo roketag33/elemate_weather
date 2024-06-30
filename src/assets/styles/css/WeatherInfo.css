@@ -1,0 +1,13 @@
+.weather-info .card-text .text-warning {
+  font-size: 20px;
+}
+
+.weather-info .card-text .text-info {
+  font-size: 18px;
+}
+
+.weather-info img {
+  width: 50px;
+  height: 50px;
+  margin: 10px auto;
+}
